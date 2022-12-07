@@ -5,3 +5,7 @@ Git tutorial demo
 
 this is basic text
 
+*this is italics*
+
+**this is bold**
+
